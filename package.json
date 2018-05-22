@@ -1,16 +1,16 @@
 {
-  "_from": "vuefire@next",
-  "_id": "vuefire@2.0.0-alpha.11",
+  "_from": "vuefirestore",
+  "_id": "vuefirestore",
   "_inBundle": false,
   "_integrity": "sha512-ibbBbm87VhZ/Ne1JlNngASOvpfYsJIMa3TU5C/WJD/KJk1f+NjQqgIko30Dlod0AWcZkXQBrE3JF/72cKqMaYw==",
-  "_location": "/vuefire",
+  "_location": "/vuefirestore",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "vuefire@next",
-    "name": "vuefire",
-    "escapedName": "vuefire",
+    "raw": "vuefirestore",
+    "name": "vuefirestore",
+    "escapedName": "vuefirestore",
     "rawSpec": "next",
     "saveSpec": null,
     "fetchSpec": "next"
@@ -21,7 +21,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/vuefire/-/vuefire-2.0.0-alpha.11.tgz",
   "_shasum": "1a4cd9113054a66e87a3d82b7259b11ee6a2da82",
-  "_spec": "vuefire@next",
+  "_spec": "vuefirestore",
   "_where": "/Volumes/LocalData/Users/reiss.cashmore/Development/velocity-network-latest/frontend",
   "author": {
     "name": "Eduardo San Martin Morote"
@@ -80,7 +80,7 @@
   "license": "MIT",
   "main": "dist/vuefire.common.js",
   "module": "dist/vuefire.esm.js",
-  "name": "vuefire",
+  "name": "vuefirestore",
   "peerDependencies": {
     "firebase": ">=4.0.0"
   },
